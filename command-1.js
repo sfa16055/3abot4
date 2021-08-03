@@ -1,4 +1,4 @@
-// authenticates you with the API standard library
+// command (slash): "/delete"
 if ((created = true)) {
     const lib = require('lib')({token: process.env.STDLIB_SECRET_TOKEN});
   
