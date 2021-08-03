@@ -1,5 +1,4 @@
-// authenticates you with the API standard library
-// type `await lib.` to display API autocomplete
+// command: (slash) "/start"
 let created = false
 if ((created = false)) {
   const lib = require('lib')({token: process.env.STDLIB_SECRET_TOKEN});
